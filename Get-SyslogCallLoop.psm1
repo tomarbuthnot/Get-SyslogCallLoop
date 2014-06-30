@@ -10,7 +10,7 @@ Function Get-SyslogCallLoop {
       Uses the regex pattern match 'INVITE sip:\+?([^\n\r@]*)@'
 
 .LINK  
-    http://link.com
+    https://github.com/tomarbuthnot/Get-SyslogCallLoop
                 
 .NOTES  
 	Version:
